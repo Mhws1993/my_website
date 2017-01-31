@@ -3,7 +3,7 @@ function initialize(){
 	cities();
 	
 };
-
+ 
 //function to create a table with cities and their populations
 function cities(){
 	//define two arrays for cities and population
